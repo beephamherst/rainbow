@@ -5,4 +5,12 @@ function rainNow () {
 	}
 }
 
-rainNow();
+const app = () => {
+	rainNow();
+};
+
+
+app();
+
+
+
