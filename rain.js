@@ -1,5 +1,8 @@
 function rainNow () {
-  console.log("Hohho rain");
+	for(let i = 0; i < 10; i++)
+	{
+		console.log("Hohho rain");
+	}
 }
 
 rainNow();
